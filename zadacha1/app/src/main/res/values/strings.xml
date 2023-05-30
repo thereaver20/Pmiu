@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">zadacha1</string>
+    <string name="start">Следи резултатите</string>
+    <string name="on">Успешно свързване</string>
+    <string name="error">Проблем при свързването</string>
+    <string name="close">Затвори</string>
+</resources>
